@@ -1,0 +1,27 @@
+#JSGF V1.0;
+
+grammar numeros;
+
+<zero> = CERO;
+<ones> =  UNO   |
+          DOS   |
+          TRES |
+          CUATRO  |
+          CINCO  |
+          SEIS   |
+          SIETE |
+          OCHO |
+          NUEVE;
+
+<teens> = DIEZ| ONCE| DOCE| TRECE| CATORCE|QUINCE| DIECISéIS| DIECISIETE| DIECIOCHO| DIECINUEVE;
+//<twenty> = VEINTE|VEINTIUNO|VEINTIDóS|VEINTITRéS|VEINTICUATRO|VEINTICINCO|VEINTISéIS|VEINTISIETE|VEINTIOCHO|VEINTINUEVE;
+
+//<tens> = TREINTA| CUARENTA| CINCUENTA| SESENTA| SETENTA| OCHENTA| NOVENTA ;
+
+//<hundred> = CIEN;
+//<hundreds> = CIENTO|DOSCIENTOS|TRESCIENTOS|CUATROCIENTOS|QUINIENTOS|SEISCIENTOS|SETECIENTOS|OCHOCIENTOS|NOVECIENTOS;
+
+
+
+//PUBLIC <numero> = <hundreds>[<teens>|<twenty>|<tens>|<tens>Y<ones>|<ones>]|[<hundreds>](<teens>|<twenty>|<tens>|<tens>Y<ones>|<ones>)|<hundred>;
+PUBLIC <numero> = <ones>|<teens>;

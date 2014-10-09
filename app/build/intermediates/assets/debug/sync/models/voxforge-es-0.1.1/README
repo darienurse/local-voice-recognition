@@ -1,0 +1,37 @@
+This is Spanish Voxforge acoustic model for CMUSphinx decoders -
+pocketsphinx and sphinx4 version 0.1. It was trained with SphinxTrain.
+The process of training is described in SphinxTrain tutorial.
+
+This is 8kHz model, it could be used both for desktop and telephone
+recordings.
+
+To setup the files use build.sh script from scripts folder as a base. It
+should download required files from Voxforge, setup structure and
+extract features. Scripts are located in scripts subfolder.
+
+Testing is performed with pocketsphinx. Language model for testing is built
+from test prompts with SRILM. Result of the testing should be similar to
+
+TOTAL Words: 5585 Correct: 5333 Errors: 269
+TOTAL Percent correct = 95.49% Error = 4.82% Accuracy = 95.18%
+TOTAL Insertions: 17 Deletions: 178 Substitutions: 74
+
+If you need serious language model you can build it yourself from your texts
+or from public corporas like Wikipedia dump.
+
+To use this model with pocketsphinx, just provide it's location with
+-hmm pocketsphinx option.For information on how to use this model with
+sphinx4 see the documentation
+
+http://cmusphinx.sourceforge.net/sphinx4/doc/UsingSphinxTrainModels.html
+
+Remember that this model uses MLLT and it requires both frontend
+modification. You need to use transform with LDA component and you need
+to adjust melfilter parameters.
+
+===== Revision Log =====
+
+0.1.1
+
+Updated Spanish phonetic dictionary. Previous was too heavy Mexican. Thanks to
+Guillermo Perez <g.perez@indisys.es>.

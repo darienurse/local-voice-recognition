@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\res" >
+            <file
+                name="icon"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\res\drawable-hdpi\icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\res\drawable-ldpi\icon.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\res\drawable-mdpi\icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="main"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\res\layout\main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="eng_num_caption" >Let\'s recognize a number. Say a number between 1-999.
+                </string>
+                <string name="span_num_caption" >Reconozcamos un número. Diga un número entre 1-19.
+                </string>
+                <string name="start" >Start
+                </string>
+                <string name="stop" >Stop
+                </string>
+                <string name="span_polar_caption" >Estás seguro ? sí o no
+                </string>
+                <string name="app_name" >PocketSphinx Demo
+                </string>
+                <string name="eng_polar_caption" >Are you sure? yes or no
+                </string>
+                <string name="lang_caption" >Say \"english\" or \"espanol\" to choose particular language.
+                </string>
+                <string name="kws_caption" >To start demonstration say \"Cycle Count\".
+                </string>
+            </file>
+        </source>
+        <source path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\build\generated\res\rs\debug" />
+        <source path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\debug\res" />
+    </dataSet>
+
+</merger>

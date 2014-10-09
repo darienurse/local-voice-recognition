@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\build\intermediates\pre-dexed\debug\pocketsphinx-android-0.8-nolib-7a05d6fb005e125eb3ee367bd90cea9a8df69b32.jar"
+        jar="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\libs\pocketsphinx-android-0.8-nolib.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="79e72ad97c6001aa89f3a250970615d92eb05fb8"/>
+
+</pre-dex-items>

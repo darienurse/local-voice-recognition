@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets" >
+            <file
+                name="sync/assets.lst"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\assets.lst" />
+            <file
+                name="sync/models/dict/cmu07a.dic"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\cmu07a.dic" />
+            <file
+                name="sync/models/dict/cmu07a.dic.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\cmu07a.dic.md5" />
+            <file
+                name="sync/models/grammar/digits.gram"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\grammar\digits.gram" />
+            <file
+                name="sync/models/grammar/digits.gram.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\grammar\digits.gram.md5" />
+            <file
+                name="sync/models/grammar/menu.gram"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\grammar\menu.gram" />
+            <file
+                name="sync/models/grammar/menu.gram.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\grammar\menu.gram.md5" />
+            <file
+                name="sync/models/hmm/en-us-semi/feat.params"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\en-us-semi\feat.params" />
+            <file
+                name="sync/models/hmm/en-us-semi/feat.params.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\en-us-semi\feat.params.md5" />
+            <file
+                name="sync/models/hmm/en-us-semi/mdef"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\en-us-semi\mdef" />
+            <file
+                name="sync/models/hmm/en-us-semi/mdef.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\en-us-semi\mdef.md5" />
+            <file
+                name="sync/models/hmm/en-us-semi/means"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\en-us-semi\means" />
+            <file
+                name="sync/models/hmm/en-us-semi/means.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\en-us-semi\means.md5" />
+            <file
+                name="sync/models/hmm/en-us-semi/noisedict"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\en-us-semi\noisedict" />
+            <file
+                name="sync/models/hmm/en-us-semi/noisedict.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\en-us-semi\noisedict.md5" />
+            <file
+                name="sync/models/hmm/en-us-semi/README"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\en-us-semi\README" />
+            <file
+                name="sync/models/hmm/en-us-semi/README.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\en-us-semi\README.md5" />
+            <file
+                name="sync/models/hmm/en-us-semi/sendump"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\en-us-semi\sendump" />
+            <file
+                name="sync/models/hmm/en-us-semi/sendump.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\en-us-semi\sendump.md5" />
+            <file
+                name="sync/models/hmm/en-us-semi/transition_matrices"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\en-us-semi\transition_matrices" />
+            <file
+                name="sync/models/hmm/en-us-semi/transition_matrices.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\en-us-semi\transition_matrices.md5" />
+            <file
+                name="sync/models/hmm/en-us-semi/variances"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\en-us-semi\variances" />
+            <file
+                name="sync/models/hmm/en-us-semi/variances.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\en-us-semi\variances.md5" />
+            <file
+                name="sync/models/lm/weather.dmp"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\lm\weather.dmp" />
+            <file
+                name="sync/models/lm/weather.dmp.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\lm\weather.dmp.md5" />
+            <file
+                name="sync/models/grammar/numbers.gram.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\grammar\numbers.gram.md5" />
+            <file
+                name="sync/models/grammar/numbers.gram"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\grammar\numbers.gram" />
+            <file
+                name="sync/models/grammar/span_polar.gram"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\grammar\span_polar.gram" />
+            <file
+                name="sync/models/grammar/polar.gram.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\grammar\polar.gram.md5" />
+            <file
+                name="sync/models/grammar/polar.gram"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\grammar\polar.gram" />
+            <file
+                name="sync/models/grammar/span_polar.gram.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\grammar\span_polar.gram.md5" />
+            <file
+                name="sync/models/grammar/numeros.gram.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\grammar\numeros.gram.md5" />
+            <file
+                name="sync/models/grammar/numeros.gram"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\grammar\numeros.gram" />
+            <file
+                name="sync/models/hmm/voxforge_es/feature_transform.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\feature_transform.md5" />
+            <file
+                name="sync/models/hmm/voxforge_es/feat.params"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\feat.params" />
+            <file
+                name="sync/models/hmm/voxforge_es/means"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\means" />
+            <file
+                name="sync/models/hmm/voxforge_es/transition_matrices"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\transition_matrices" />
+            <file
+                name="sync/models/hmm/voxforge_es/mixture_weights.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\mixture_weights.md5" />
+            <file
+                name="sync/models/hmm/voxforge_es/mdef.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\mdef.md5" />
+            <file
+                name="sync/models/hmm/voxforge_es/mixture_weights"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\mixture_weights" />
+            <file
+                name="sync/models/hmm/voxforge_es/noisedict"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\noisedict" />
+            <file
+                name="sync/models/hmm/voxforge_es/transition_matrices.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\transition_matrices.md5" />
+            <file
+                name="sync/models/hmm/voxforge_es/noisedict.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\noisedict.md5" />
+            <file
+                name="sync/models/hmm/voxforge_es/feat.params.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\feat.params.md5" />
+            <file
+                name="sync/models/hmm/voxforge_es/mdef"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\mdef" />
+            <file
+                name="sync/models/hmm/voxforge_es/means.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\means.md5" />
+            <file
+                name="sync/models/hmm/voxforge_es/variances"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\variances" />
+            <file
+                name="sync/models/hmm/voxforge_es/feature_transform"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\feature_transform" />
+            <file
+                name="sync/models/hmm/voxforge_es/variances.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\variances.md5" />
+            <file
+                name="sync/models/hmm/es_MX/mdef"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\es_MX\mdef" />
+            <file
+                name="sync/models/hmm/es_MX/feat.params"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\es_MX\feat.params" />
+            <file
+                name="sync/models/hmm/es_MX/mixture_weights.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\es_MX\mixture_weights.md5" />
+            <file
+                name="sync/models/hmm/es_MX/means.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\es_MX\means.md5" />
+            <file
+                name="sync/models/hmm/es_MX/means"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\es_MX\means" />
+            <file
+                name="sync/models/hmm/es_MX/transition_matrices.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\es_MX\transition_matrices.md5" />
+            <file
+                name="sync/models/hmm/es_MX/variances"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\es_MX\variances" />
+            <file
+                name="sync/models/hmm/es_MX/variances.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\es_MX\variances.md5" />
+            <file
+                name="sync/models/hmm/es_MX/mdef.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\es_MX\mdef.md5" />
+            <file
+                name="sync/models/hmm/es_MX/feat.params.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\es_MX\feat.params.md5" />
+            <file
+                name="sync/models/hmm/es_MX/mixture_weights"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\es_MX\mixture_weights" />
+            <file
+                name="sync/models/hmm/es_MX/transition_matrices"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\es_MX\transition_matrices" />
+            <file
+                name="sync/models/dict/h4.dict.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\h4.dict.md5" />
+            <file
+                name="sync/models/dict/h4.dict"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\h4.dict" />
+            <file
+                name="sync/models/dict/etc/feat.params.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\feat.params.md5" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.transcription.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.transcription.md5" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.transcription.test.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.transcription.test.md5" />
+            <file
+                name="sync/models/dict/etc/sphinx_train.cfg"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\sphinx_train.cfg" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.dic"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.dic" />
+            <file
+                name="sync/models/dict/etc/allprompts.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\allprompts.md5" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.transcription.txt.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.transcription.txt.md5" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.transcription.test"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.transcription.test" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.phone"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.phone" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.transcription.train14403"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.transcription.train14403" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.transcription.txt"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.transcription.txt" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.alignedtranscripts"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.alignedtranscripts" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.transcription.train14403.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.transcription.train14403.md5" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.fileids.train"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.fileids.train" />
+            <file
+                name="sync/models/dict/etc/allprompts"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\allprompts" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.transcription"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.transcription" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.dic.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.dic.md5" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.transcription.lm"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.transcription.lm" />
+            <file
+                name="sync/models/dict/etc/sphinx_decode.cfg.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\sphinx_decode.cfg.md5" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.transcription.train"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.transcription.train" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.fileids.test.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.fileids.test.md5" />
+            <file
+                name="sync/models/dict/etc/sphinx_train.cfg.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\sphinx_train.cfg.md5" />
+            <file
+                name="sync/models/dict/etc/sphinx_decode.cfg"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\sphinx_decode.cfg" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.alignedfiles.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.alignedfiles.md5" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.transcription.lm.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.transcription.lm.md5" />
+            <file
+                name="sync/models/dict/etc/feat.params"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\feat.params" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.fileids.train.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.fileids.train.md5" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.filler"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.filler" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.alignedfiles"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.alignedfiles" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.filler.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.filler.md5" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.phone.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.phone.md5" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.fileids.test"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.fileids.test" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.transcription.train.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.transcription.train.md5" />
+            <file
+                name="sync/models/dict/etc/voxforge_es_sphinx.alignedtranscripts.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.alignedtranscripts.md5" />
+            <file
+                name="sync/models/dict/etc_mx/H4.arpa.Z.DMP"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc_mx\H4.arpa.Z.DMP" />
+            <file
+                name="sync/models/dict/etc_mx/train.fileids.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc_mx\train.fileids.md5" />
+            <file
+                name="sync/models/dict/etc_mx/H4.arpa.Z.DMP.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc_mx\H4.arpa.Z.DMP.md5" />
+            <file
+                name="sync/models/dict/etc_mx/filler.dict"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc_mx\filler.dict" />
+            <file
+                name="sync/models/dict/etc_mx/h4.dict.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc_mx\h4.dict.md5" />
+            <file
+                name="sync/models/dict/etc_mx/train.transcription"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc_mx\train.transcription" />
+            <file
+                name="sync/models/dict/etc_mx/train.transcription.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc_mx\train.transcription.md5" />
+            <file
+                name="sync/models/dict/etc_mx/h4.dict"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc_mx\h4.dict" />
+            <file
+                name="sync/models/dict/etc_mx/train.fileids"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc_mx\train.fileids" />
+            <file
+                name="sync/models/dict/etc_mx/filler.dict.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc_mx\filler.dict.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/model_parameters/voxforge_es_sphinx.cd_cont_1500/feat.params"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\model_parameters\voxforge_es_sphinx.cd_cont_1500\feat.params" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx.alignedtranscripts.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx.alignedtranscripts.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/result/voxforge_es_sphinx-8-8.match"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\result\voxforge_es_sphinx-8-8.match" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx_MX.dic.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx_MX.dic.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/scripts/traintest.sh.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\scripts\traintest.sh.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/model_parameters/voxforge_es_sphinx.cd_cont_1500/means"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\model_parameters\voxforge_es_sphinx.cd_cont_1500\means" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx.transcription.txt"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx.transcription.txt" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/result/voxforge_es_sphinx-6-8.match"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\result\voxforge_es_sphinx-6-8.match" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/model_parameters/voxforge_es_sphinx.cd_cont_1500/noisedict.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\model_parameters\voxforge_es_sphinx.cd_cont_1500\noisedict.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/model_parameters/voxforge_es_sphinx.cd_cont_1500/feat.params.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\model_parameters\voxforge_es_sphinx.cd_cont_1500\feat.params.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/model_parameters/voxforge_es_sphinx.cd_cont_1500/mixture_weights"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\model_parameters\voxforge_es_sphinx.cd_cont_1500\mixture_weights" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx.fileids.test"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx.fileids.test" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx.transcription.train"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx.transcription.train" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx.transcription"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx.transcription" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx.transcription.test.lm.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx.transcription.test.lm.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/result/voxforge_es_sphinx-2-8.match"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\result\voxforge_es_sphinx-2-8.match" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/sphinx_train.cfg"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\sphinx_train.cfg" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx.filler"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx.filler" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx.transcription.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx.transcription.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/result/voxforge_es_sphinx-4-8.match"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\result\voxforge_es_sphinx-4-8.match" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx.transcription.train.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx.transcription.train.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/feat.params"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\feat.params" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/model_parameters/voxforge_es_sphinx.cd_cont_1500/noisedict"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\model_parameters\voxforge_es_sphinx.cd_cont_1500\noisedict" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx.filler.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx.filler.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx.dic"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx.dic" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/model_parameters/voxforge_es_sphinx.cd_cont_1500/mdef.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\model_parameters\voxforge_es_sphinx.cd_cont_1500\mdef.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/result/voxforge_es_sphinx.align"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\result\voxforge_es_sphinx.align" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/allprompts"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\allprompts" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx.phone.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx.phone.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx.transcription.test"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx.transcription.test" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx.fileids.train.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx.fileids.train.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/result/voxforge_es_sphinx.match.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\result\voxforge_es_sphinx.match.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/model_parameters/voxforge_es_sphinx.cd_cont_1500/mixture_weights.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\model_parameters\voxforge_es_sphinx.cd_cont_1500\mixture_weights.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/model_parameters/voxforge_es_sphinx.cd_cont_1500/mdef"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\model_parameters\voxforge_es_sphinx.cd_cont_1500\mdef" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/result/voxforge_es_sphinx.align.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\result\voxforge_es_sphinx.align.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx.fileids.test.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx.fileids.test.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/result/voxforge_es_sphinx.match"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\result\voxforge_es_sphinx.match" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/scripts/build_fileids.py"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\scripts\build_fileids.py" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/model_parameters/voxforge_es_sphinx.cd_cont_1500/variances"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\model_parameters\voxforge_es_sphinx.cd_cont_1500\variances" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/model_parameters/voxforge_es_sphinx.cd_cont_1500/means.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\model_parameters\voxforge_es_sphinx.cd_cont_1500\means.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx.fileids.train"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx.fileids.train" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/sphinx_decode.cfg.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\sphinx_decode.cfg.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/result/voxforge_es_sphinx-7-8.match"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\result\voxforge_es_sphinx-7-8.match" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/scripts/build.sh"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\scripts\build.sh" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/README"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\README" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/result/voxforge_es_sphinx-3-8.match"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\result\voxforge_es_sphinx-3-8.match" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/result/voxforge_es_sphinx-5-8.match"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\result\voxforge_es_sphinx-5-8.match" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/feat.params.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\feat.params.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/result/voxforge_es_sphinx-1-8.match.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\result\voxforge_es_sphinx-1-8.match.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/scripts/build.sh.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\scripts\build.sh.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx.transcription.test.lm"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx.transcription.test.lm" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/README.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\README.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/model_parameters/voxforge_es_sphinx.cd_cont_1500/transition_matrices"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\model_parameters\voxforge_es_sphinx.cd_cont_1500\transition_matrices" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx.phone"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx.phone" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx.alignedfiles"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx.alignedfiles" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/result/voxforge_es_sphinx-3-8.match.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\result\voxforge_es_sphinx-3-8.match.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/scripts/traintest.sh"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\scripts\traintest.sh" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/result/voxforge_es_sphinx-1-8.match"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\result\voxforge_es_sphinx-1-8.match" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/result/voxforge_es_sphinx-4-8.match.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\result\voxforge_es_sphinx-4-8.match.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx_MX.dic"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx_MX.dic" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/model_parameters/voxforge_es_sphinx.cd_cont_1500/feature_transform"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\model_parameters\voxforge_es_sphinx.cd_cont_1500\feature_transform" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx.alignedtranscripts"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx.alignedtranscripts" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/result/voxforge_es_sphinx-2-8.match.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\result\voxforge_es_sphinx-2-8.match.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/result/voxforge_es_sphinx-7-8.match.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\result\voxforge_es_sphinx-7-8.match.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/scripts/build_fileids.py.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\scripts\build_fileids.py.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/result/voxforge_es_sphinx-8-8.match.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\result\voxforge_es_sphinx-8-8.match.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/allprompts.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\allprompts.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/model_parameters/voxforge_es_sphinx.cd_cont_1500/feature_transform.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\model_parameters\voxforge_es_sphinx.cd_cont_1500\feature_transform.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/result/voxforge_es_sphinx-5-8.match.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\result\voxforge_es_sphinx-5-8.match.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx.dic.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx.dic.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/model_parameters/voxforge_es_sphinx.cd_cont_1500/transition_matrices.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\model_parameters\voxforge_es_sphinx.cd_cont_1500\transition_matrices.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx.transcription.test.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx.transcription.test.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx.transcription.txt.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx.transcription.txt.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/sphinx_decode.cfg"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\sphinx_decode.cfg" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/result/voxforge_es_sphinx-6-8.match.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\result\voxforge_es_sphinx-6-8.match.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/model_parameters/voxforge_es_sphinx.cd_cont_1500/variances.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\model_parameters\voxforge_es_sphinx.cd_cont_1500\variances.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/sphinx_train.cfg.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\sphinx_train.cfg.md5" />
+            <file
+                name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx.alignedfiles.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx.alignedfiles.md5" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\debug\assets" />
+    </dataSet>
+
+</merger>
