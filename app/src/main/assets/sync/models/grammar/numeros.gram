@@ -2,16 +2,11 @@
 
 grammar numeros;
 
+
+
 <zero> = CERO;
-<ones> =  UNO   |
-          DOS   |
-          TRES |
-          CUATRO  |
-          CINCO  |
-          SEIS   |
-          SIETE |
-          OCHO |
-          NUEVE;
+
+<ones> =  UNO |DOS |TRES |CUATRO |CINCO |SEIS |SIETE |OCHO |NUEVE;
 
 <teens> = DIEZ| ONCE| DOCE| TRECE| CATORCE|QUINCE| DIECISéIS| DIECISIETE| DIECIOCHO| DIECINUEVE;
 //<twenty> = VEINTE|VEINTIUNO|VEINTIDóS|VEINTITRéS|VEINTICUATRO|VEINTICINCO|VEINTISéIS|VEINTISIETE|VEINTIOCHO|VEINTINUEVE;
@@ -24,4 +19,4 @@ grammar numeros;
 
 
 //PUBLIC <numero> = <hundreds>[<teens>|<twenty>|<tens>|<tens>Y<ones>|<ones>]|[<hundreds>](<teens>|<twenty>|<tens>|<tens>Y<ones>|<ones>)|<hundred>;
-PUBLIC <numero> = <ones>|<teens>;
+PUBLIC <numero> = YO HABLO <teens>;

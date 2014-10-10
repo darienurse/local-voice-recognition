@@ -152,7 +152,10 @@ public class PocketSphinxActivity extends Activity implements
             switchSearch(ENG_POLAR_SEARCH, result);
         }
         else if(SPAN_NUM_SEARCH.equals(recognizer.getSearchName())){
-            switchSearch(SPAN_POLAR_SEARCH, result);
+            if(result.isEmpty())
+                switchSearch(SPAN_NUM_SEARCH,"");
+            else
+                switchSearch(SPAN_POLAR_SEARCH, result);
         }
         else if (ENG_POLAR_SEARCH.equals(recognizer.getSearchName())
                 || SPAN_POLAR_SEARCH.equals(recognizer.getSearchName())){
@@ -178,7 +181,7 @@ public class PocketSphinxActivity extends Activity implements
                 .setRawLogDir(assetsDir).setKeywordThreshold(1e-20f)
                 .getRecognizer();
         spanish_recognizer = defaultSetup()
-//                .setAcousticModel(new File(modelsDir, "es_MX_broadcast/model_parameters/hub4_spanish_itesm.cd_cont_2500))
+//                .setAcousticModel(new File(modelsDir, "es_MX_broadcast/model_parameters/hub4_spanish_itesm.cd_cont_2500"))
 //                .setDictionary(new File(modelsDir, "es_MX_broadcast/etc_mx/h4.dict"))
                 .setAcousticModel(new File(modelsDir, "voxforge-es-0.1.1/model_parameters/voxforge_es_sphinx.cd_cont_1500"))
                 .setDictionary(new File(modelsDir, "voxforge-es-0.1.1/etc/voxforge_es_sphinx.dic"))
@@ -205,5 +208,5 @@ public class PocketSphinxActivity extends Activity implements
         english_recognizer.addListener(this);
         spanish_recognizer.addListener(this);
         recognizer = english_recognizer;
-    }
+}
 }

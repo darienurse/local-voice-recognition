@@ -103,96 +103,6 @@
                 name="sync/models/grammar/numeros.gram"
                 path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\grammar\numeros.gram" />
             <file
-                name="sync/models/hmm/voxforge_es/feature_transform.md5"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\feature_transform.md5" />
-            <file
-                name="sync/models/hmm/voxforge_es/feat.params"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\feat.params" />
-            <file
-                name="sync/models/hmm/voxforge_es/means"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\means" />
-            <file
-                name="sync/models/hmm/voxforge_es/transition_matrices"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\transition_matrices" />
-            <file
-                name="sync/models/hmm/voxforge_es/mixture_weights.md5"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\mixture_weights.md5" />
-            <file
-                name="sync/models/hmm/voxforge_es/mdef.md5"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\mdef.md5" />
-            <file
-                name="sync/models/hmm/voxforge_es/mixture_weights"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\mixture_weights" />
-            <file
-                name="sync/models/hmm/voxforge_es/noisedict"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\noisedict" />
-            <file
-                name="sync/models/hmm/voxforge_es/transition_matrices.md5"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\transition_matrices.md5" />
-            <file
-                name="sync/models/hmm/voxforge_es/noisedict.md5"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\noisedict.md5" />
-            <file
-                name="sync/models/hmm/voxforge_es/feat.params.md5"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\feat.params.md5" />
-            <file
-                name="sync/models/hmm/voxforge_es/mdef"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\mdef" />
-            <file
-                name="sync/models/hmm/voxforge_es/means.md5"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\means.md5" />
-            <file
-                name="sync/models/hmm/voxforge_es/variances"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\variances" />
-            <file
-                name="sync/models/hmm/voxforge_es/feature_transform"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\feature_transform" />
-            <file
-                name="sync/models/hmm/voxforge_es/variances.md5"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\voxforge_es\variances.md5" />
-            <file
-                name="sync/models/hmm/es_MX/mdef"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\es_MX\mdef" />
-            <file
-                name="sync/models/hmm/es_MX/feat.params"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\es_MX\feat.params" />
-            <file
-                name="sync/models/hmm/es_MX/mixture_weights.md5"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\es_MX\mixture_weights.md5" />
-            <file
-                name="sync/models/hmm/es_MX/means.md5"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\es_MX\means.md5" />
-            <file
-                name="sync/models/hmm/es_MX/means"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\es_MX\means" />
-            <file
-                name="sync/models/hmm/es_MX/transition_matrices.md5"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\es_MX\transition_matrices.md5" />
-            <file
-                name="sync/models/hmm/es_MX/variances"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\es_MX\variances" />
-            <file
-                name="sync/models/hmm/es_MX/variances.md5"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\es_MX\variances.md5" />
-            <file
-                name="sync/models/hmm/es_MX/mdef.md5"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\es_MX\mdef.md5" />
-            <file
-                name="sync/models/hmm/es_MX/feat.params.md5"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\es_MX\feat.params.md5" />
-            <file
-                name="sync/models/hmm/es_MX/mixture_weights"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\es_MX\mixture_weights" />
-            <file
-                name="sync/models/hmm/es_MX/transition_matrices"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\hmm\es_MX\transition_matrices" />
-            <file
-                name="sync/models/dict/h4.dict.md5"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\h4.dict.md5" />
-            <file
-                name="sync/models/dict/h4.dict"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\h4.dict" />
-            <file
                 name="sync/models/dict/etc/feat.params.md5"
                 path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\feat.params.md5" />
             <file
@@ -294,36 +204,6 @@
             <file
                 name="sync/models/dict/etc/voxforge_es_sphinx.alignedtranscripts.md5"
                 path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc\voxforge_es_sphinx.alignedtranscripts.md5" />
-            <file
-                name="sync/models/dict/etc_mx/H4.arpa.Z.DMP"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc_mx\H4.arpa.Z.DMP" />
-            <file
-                name="sync/models/dict/etc_mx/train.fileids.md5"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc_mx\train.fileids.md5" />
-            <file
-                name="sync/models/dict/etc_mx/H4.arpa.Z.DMP.md5"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc_mx\H4.arpa.Z.DMP.md5" />
-            <file
-                name="sync/models/dict/etc_mx/filler.dict"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc_mx\filler.dict" />
-            <file
-                name="sync/models/dict/etc_mx/h4.dict.md5"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc_mx\h4.dict.md5" />
-            <file
-                name="sync/models/dict/etc_mx/train.transcription"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc_mx\train.transcription" />
-            <file
-                name="sync/models/dict/etc_mx/train.transcription.md5"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc_mx\train.transcription.md5" />
-            <file
-                name="sync/models/dict/etc_mx/h4.dict"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc_mx\h4.dict" />
-            <file
-                name="sync/models/dict/etc_mx/train.fileids"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc_mx\train.fileids" />
-            <file
-                name="sync/models/dict/etc_mx/filler.dict.md5"
-                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\dict\etc_mx\filler.dict.md5" />
             <file
                 name="sync/models/voxforge-es-0.1.1/model_parameters/voxforge_es_sphinx.cd_cont_1500/feat.params"
                 path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\model_parameters\voxforge_es_sphinx.cd_cont_1500\feat.params" />
@@ -558,6 +438,108 @@
             <file
                 name="sync/models/voxforge-es-0.1.1/etc/voxforge_es_sphinx.alignedfiles.md5"
                 path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\voxforge-es-0.1.1\etc\voxforge_es_sphinx.alignedfiles.md5" />
+            <file
+                name="sync/models/es_MX_broadcast/model_parameters/hub4_spanish_itesm.cd_cont_2500/mixture_weights.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\model_parameters\hub4_spanish_itesm.cd_cont_2500\mixture_weights.md5" />
+            <file
+                name="sync/models/es_MX_broadcast/README"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\README" />
+            <file
+                name="sync/models/es_MX_broadcast/etc_mx/train.transcription.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\etc_mx\train.transcription.md5" />
+            <file
+                name="sync/models/es_MX_broadcast/etc_mx/train.fileids.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\etc_mx\train.fileids.md5" />
+            <file
+                name="sync/models/es_MX_broadcast/etc_mx/filler.dict.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\etc_mx\filler.dict.md5" />
+            <file
+                name="sync/models/es_MX_broadcast/etc_mx/H4.arpa.Z.DMP.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\etc_mx\H4.arpa.Z.DMP.md5" />
+            <file
+                name="sync/models/es_MX_broadcast/model_parameters/H4.cd_continuous_1gau.tgz.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\model_parameters\H4.cd_continuous_1gau.tgz.md5" />
+            <file
+                name="sync/models/es_MX_broadcast/model_parameters/H4.cd_continuous_4gau.tgz.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\model_parameters\H4.cd_continuous_4gau.tgz.md5" />
+            <file
+                name="sync/models/es_MX_broadcast/model_parameters/H4.cd_continuous_4gau.tgz"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\model_parameters\H4.cd_continuous_4gau.tgz" />
+            <file
+                name="sync/models/es_MX_broadcast/etc_mx/filler.dict"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\etc_mx\filler.dict" />
+            <file
+                name="sync/models/es_MX_broadcast/model_parameters/H4.cd_continuous_8gau.tgz"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\model_parameters\H4.cd_continuous_8gau.tgz" />
+            <file
+                name="sync/models/es_MX_broadcast/model_parameters/H4.cd_continuous_2gau.tgz"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\model_parameters\H4.cd_continuous_2gau.tgz" />
+            <file
+                name="sync/models/es_MX_broadcast/etc_mx/H4.arpa.Z.DMP"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\etc_mx\H4.arpa.Z.DMP" />
+            <file
+                name="sync/models/es_MX_broadcast/model_parameters/H4.cd_continuous_16gau.tgz.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\model_parameters\H4.cd_continuous_16gau.tgz.md5" />
+            <file
+                name="sync/models/es_MX_broadcast/model_parameters/hub4_spanish_itesm.cd_cont_2500/mdef"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\model_parameters\hub4_spanish_itesm.cd_cont_2500\mdef" />
+            <file
+                name="sync/models/es_MX_broadcast/model_parameters/hub4_spanish_itesm.cd_cont_2500/transition_matrices"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\model_parameters\hub4_spanish_itesm.cd_cont_2500\transition_matrices" />
+            <file
+                name="sync/models/es_MX_broadcast/etc_mx/h4.dict.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\etc_mx\h4.dict.md5" />
+            <file
+                name="sync/models/es_MX_broadcast/model_parameters/hub4_spanish_itesm.cd_cont_2500/variances"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\model_parameters\hub4_spanish_itesm.cd_cont_2500\variances" />
+            <file
+                name="sync/models/es_MX_broadcast/model_parameters/hub4_spanish_itesm.cd_cont_2500/means.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\model_parameters\hub4_spanish_itesm.cd_cont_2500\means.md5" />
+            <file
+                name="sync/models/es_MX_broadcast/model_parameters/hub4_spanish_itesm.cd_cont_2500/variances.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\model_parameters\hub4_spanish_itesm.cd_cont_2500\variances.md5" />
+            <file
+                name="sync/models/es_MX_broadcast/etc_mx/train.fileids"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\etc_mx\train.fileids" />
+            <file
+                name="sync/models/es_MX_broadcast/model_parameters/H4.cd_continuous_2gau.tgz.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\model_parameters\H4.cd_continuous_2gau.tgz.md5" />
+            <file
+                name="sync/models/es_MX_broadcast/model_parameters/H4.cd_continuous_8gau.tgz.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\model_parameters\H4.cd_continuous_8gau.tgz.md5" />
+            <file
+                name="sync/models/es_MX_broadcast/README.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\README.md5" />
+            <file
+                name="sync/models/es_MX_broadcast/etc_mx/h4.dict"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\etc_mx\h4.dict" />
+            <file
+                name="sync/models/es_MX_broadcast/etc_mx/train.transcription"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\etc_mx\train.transcription" />
+            <file
+                name="sync/models/es_MX_broadcast/model_parameters/H4.cd_continuous_1gau.tgz"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\model_parameters\H4.cd_continuous_1gau.tgz" />
+            <file
+                name="sync/models/es_MX_broadcast/model_parameters/hub4_spanish_itesm.cd_cont_2500/means"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\model_parameters\hub4_spanish_itesm.cd_cont_2500\means" />
+            <file
+                name="sync/models/es_MX_broadcast/model_parameters/hub4_spanish_itesm.cd_cont_2500/transition_matrices.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\model_parameters\hub4_spanish_itesm.cd_cont_2500\transition_matrices.md5" />
+            <file
+                name="sync/models/es_MX_broadcast/model_parameters/hub4_spanish_itesm.cd_cont_2500/mdef.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\model_parameters\hub4_spanish_itesm.cd_cont_2500\mdef.md5" />
+            <file
+                name="sync/models/es_MX_broadcast/model_parameters/H4.cd_continuous_16gau.tgz"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\model_parameters\H4.cd_continuous_16gau.tgz" />
+            <file
+                name="sync/models/es_MX_broadcast/model_parameters/hub4_spanish_itesm.cd_cont_2500/mixture_weights"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\model_parameters\hub4_spanish_itesm.cd_cont_2500\mixture_weights" />
+            <file
+                name="sync/models/es_MX_broadcast/model_parameters/hub4_spanish_itesm.cd_cont_2500/feat.params"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\model_parameters\hub4_spanish_itesm.cd_cont_2500\feat.params" />
+            <file
+                name="sync/models/es_MX_broadcast/model_parameters/hub4_spanish_itesm.cd_cont_2500/feat.params.md5"
+                path="C:\Users\Darien\Documents\CMU Sphinx\pocketsphinx-android-demo-5prealpha-android-studio\app\src\main\assets\sync\models\es_MX_broadcast\model_parameters\hub4_spanish_itesm.cd_cont_2500\feat.params.md5" />
         </source>
     </dataSet>
     <dataSet config="debug" >
